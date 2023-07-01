@@ -1,0 +1,21 @@
+I didn't know how to read the description so..........
+Chess AI with Minimax Algorithm and Adjustable Skill Level
+
+This repository contains an implementation of a chess AI using the minimax algorithm with alpha-beta pruning. The AI evaluates the board state using an evaluation function that considers factors such as material balance, piece square tables, and other evaluation criteria. The minimax algorithm with alpha-beta pruning enables efficient searching of the game tree to find the best move.
+
+Key Features:
+- Minimax algorithm with alpha-beta pruning for efficient move searching
+- Evaluation function to assign scores to the board state based on various factors
+- Adjustable skill level that allows you to set the difficulty of the AI
+- Move generation logic for generating valid moves
+- Game over condition detection for checkmate, stalemate, and other end-game scenarios
+
+Usage:
+1. Clone the repository and navigate to the project directory.
+2. Run the main file to start a game against the AI.
+3. Adjust the skill level parameter to set the desired difficulty level.
+
+Feel free to explore and modify the code to enhance the AI's performance or extend its capabilities.
+
+Contributions, bug reports, and feature requests are welcome!
+
